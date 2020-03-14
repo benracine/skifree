@@ -30,8 +30,8 @@ solution can only gain from having a better foundation.
   and fix the root of the problem.
   * Steps to Reproduce:
     1. Load the game
-    1. Crash into an obstacle
-    1. Press the left arrow key
+    2. Crash into an obstacle
+    3. Press the left arrow key
   * Expected Result: The skier gets up and is facing to the left
   * Actual Result: Giant blizzard occurs causing the screen to turn completely white (or maybe the game just crashes!)
   
