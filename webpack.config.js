@@ -13,6 +13,10 @@ const config = {
         filename: 'bundle.js',
     },
 
+    devServer: {
+        hot: true
+    },
+
     module: {
         rules : [
             {
